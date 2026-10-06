@@ -2,7 +2,8 @@ Package: PipsPackageRayane
 Type: Package
 Title: Functions Created for Pips Course Assignemnt
 Version: 0.1.0
-Authors@R: Rayane Prado Nunes
+Authors@R:  person("Rayane", "Prado", email = "rayane.prado.nunes2@student.uva.nl",
+           role = c("aut", "cre"))
 Description: A package created for an R course that contains two functions.
     The vec_increaser() function automatically increase all elements in a vecotr.
     The loops_help() funnction gives a short description about while loops and/or a for loops
